@@ -1,2 +1,2 @@
-numpy
+numpy基本属性
 pandas
