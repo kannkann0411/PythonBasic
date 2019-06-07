@@ -1,2 +1,3 @@
 numpy基本属性
+impory numpy as np
 pandas
